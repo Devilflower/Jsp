@@ -6,20 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69edde30-be35-4579-939d-b7402a4b4a31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/5-2.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exp4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exp4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exp4/ZB1018108_李永乐.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../exp4/ZB1018108_李永乐.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exp4/out/artifacts/exp4_war_exploded/4-3-1.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exp4/out/artifacts/exp4_war_exploded/4-3-2.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exp4/out/artifacts/exp4_war_exploded/4-4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../exp4/out/artifacts/exp4_war_exploded/4-4.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exp4/out/artifacts/exp4_war_exploded/4-5-1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../exp4/out/artifacts/exp4_war_exploded/4-5-1.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exp4/out/artifacts/exp4_war_exploded/4-5-2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../exp4/out/artifacts/exp4_war_exploded/4-5-2.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exp4/out/artifacts/exp4_war_exploded/WEB-INF/classes/com/cslg/exp4/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exp4/out/artifacts/exp4_war_exploded/WEB-INF/classes/com/cslg/exp4/People.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exp4/out/production/exp4/com/cslg/exp4/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exp4/out/production/exp4/com/cslg/exp4/People.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exp4/web/4-3-1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../exp4/web/4-3.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exp4/web/4-3-2.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exp4/web/4-4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../exp4/web/4-4.jsp" afterDir="false" />
+    <list default="true" id="69edde30-be35-4579-939d-b7402a4b4a31" name="Default Changelist" comment="exp5">
+      <change afterPath="$PROJECT_DIR$/../exp4/out/artifacts/exp4_war_exploded/4-3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/5-7.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+            <state relative-caret-position="151">
+              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -118,10 +107,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="22" />
-    <option name="y" value="67" />
+    <option name="x" value="21" />
+    <option name="y" value="66" />
     <option name="width" value="1865" />
-    <option name="height" value="907" />
+    <option name="height" value="908" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -144,11 +133,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
@@ -268,16 +258,17 @@
       <updated>1570762507998</updated>
       <workItem from="1570762509919" duration="3844000" />
       <workItem from="1570789967712" duration="10827000" />
+      <workItem from="1570805347194" duration="242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14671000" />
+    <option name="totallyTimeSpent" value="14913000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="18" y="54" width="1492" height="725" extended-state="0" />
+    <frame x="17" y="53" width="1492" height="726" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25313807" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25662482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -296,7 +287,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32978722" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32828283" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -313,6 +304,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exp5" />
+    <option name="LAST_COMMIT_MESSAGE" value="exp5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://E:/apache-tomcat-8.5.39-windows-x64/apache-tomcat-8.5.39/lib/servlet-api.jar!/javax/servlet/ServletRequest.class">
@@ -446,9 +441,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/test.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/test.xml" />
     <entry file="file://$PROJECT_DIR$/web/5-4-11.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
@@ -482,8 +475,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/5-7.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        <state relative-caret-position="151">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
         </state>
       </provider>
     </entry>
